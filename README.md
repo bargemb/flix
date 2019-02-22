@@ -22,9 +22,6 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [Recordit](http://recordit.co/).
 
-### Notes
-Describe any challenges encountered while building the app.
-
 ---
 
 ## Flix Part 1
@@ -46,6 +43,3 @@ Here's a walkthrough of implemented user stories:
 <img src='http://g.recordit.co/sYnnea7B3L.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [Recordit](http://recordit.co/).
-
-### Notes
-Describe any challenges encountered while building the app.
